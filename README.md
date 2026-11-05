@@ -276,5 +276,5 @@ users: Dict[str, UserBundle] = {
 
 * **LinkedIn:** [www.linkedin.com/in/swapnil-chhetri-601a8a191]
 * **Email:** [swapnlchetri@gmail.com]
-* **GitHub:** [Add Your GitHub Profile URL Here]
+* **GitHub:** [https://github.com/SwapnilChhetri]
 * **Location:** Open to Data Analyst /Business Analyst/ Data Scientist / Analytics Engineer roles.
