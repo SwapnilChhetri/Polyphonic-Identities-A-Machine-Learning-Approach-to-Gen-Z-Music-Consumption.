@@ -1,0 +1,2 @@
+# Polyphonic-Identities-A-Machine-Learning-Approach-to-Gen-Z-Music-Consumption.
+This repository details my MSc Data Analytics dissertation at London Metropolitan University. It introduces a multi-modal machine learning framework analyzing over 1.9 million streaming records across 73 countries. The study aims to distinguish genuine multicultural music exploration among Generation Z from algorithm-driven homogenization.
