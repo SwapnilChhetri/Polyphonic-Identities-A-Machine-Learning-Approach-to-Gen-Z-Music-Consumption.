@@ -274,7 +274,7 @@ users: Dict[str, UserBundle] = {
 **Swapnil Chhetri**  
 *MSc in Data Analytics — London Metropolitan University / Islington College*  
 
-* **LinkedIn:** [Add Your LinkedIn URL Here]
-* **Email:** [Add Your Email Address Here]
+* **LinkedIn:** [www.linkedin.com/in/swapnil-chhetri-601a8a191]
+* **Email:** [swapnlchetri@gmail.com]
 * **GitHub:** [Add Your GitHub Profile URL Here]
-* **Location:** Open to Data Analyst / Data Scientist / Analytics Engineer roles.
+* **Location:** Open to Data Analyst /Business Analyst/ Data Scientist / Analytics Engineer roles.
