@@ -308,14 +308,10 @@ users: Dict[str, UserBundle] = {
 
 ## 10. Author & Contact
 
-**Swapnil Chhetri**
+**Swapnil Chhetri**  
+*MSc in Data Analytics — London Metropolitan University / Islington College*  
 
-*MSc in Data Analytics — London Metropolitan University / Islington College*
-
-* **LinkedIn:** \[Add Your LinkedIn URL Here\]
-
-* **Email:** \[Add Your Email Address Here\]
-
-* **GitHub:** \[Add Your GitHub Profile URL Here\]
-
-* **Location:** Open to Data Analyst / Data Scientist / Analytics Engineer roles.
+* **LinkedIn:** [www.linkedin.com/in/swapnil-chhetri-601a8a191]
+* **Email:** [swapnlchetri@gmail.com]
+* **GitHub:** [https://github.com/SwapnilChhetri]
+* **Location:** Open to Data Analyst /Business Analyst/ Data Scientist / Analytics Engineer roles.
