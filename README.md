@@ -90,7 +90,7 @@ Using `NetworkX`, an undirected weighted graph $G = (V, E)$ was constructed wher
 
 Longitudinal analysis of normalized audio features reveals a dramatic structural shift in music production over the last 70 years:
 
-![Musical Evolution Over Time (1955–2024)](musical_evolution.png)
+![Musical Evolution Over Time (1955–2024)](https://github.com/SwapnilChhetri/Polyphonic-Identities-A-Machine-Learning-Approach-to-Gen-Z-Music-Consumption./blob/bbc24cdaccb3593fc6d7e0de22f3ddc86cb10383/musical_evolution.png)
 *Figure 1 (Dissertation Fig. 10): Normalized decadal trajectories of six core Spotify audio features from 1955 to 2024.*
 
 | Audio Dimension | Historical Baseline ($1955\text{--}1964$) | Modern Era ($2020\text{--}2024$) | Relative Shift | Analytical Takeaway | 
@@ -111,7 +111,7 @@ Conversely, contrasting **Popularity Extremes** shows that low-popularity tracks
 
 Correlation analysis between multi-platform metrics and **Spotify Global Chart Rank (`adjusted_rank`)** challenges the assumption that social media virality automatically guarantees chart dominance:
 
-![Correlation Between Platform Metrics and Global Chart Rank](platform_correlation.png)
+![Correlation Between Platform Metrics and Global Chart Rank](https://github.com/SwapnilChhetri/Polyphonic-Identities-A-Machine-Learning-Approach-to-Gen-Z-Music-Consumption./blob/bbc24cdaccb3593fc6d7e0de22f3ddc86cb10383/platform_correlation.png)
 *Figure 2 (Dissertation Fig. 13): Pearson correlation matrix comparing Spotify, YouTube, and TikTok engagement metrics against global chart rank.*
 
 * **Spotify Playlist Reach (**$r \approx +0.50$**):** The single strongest predictor of global chart rank. Platform-curated playlist placement is the primary gatekeeper of hit status.
@@ -123,7 +123,8 @@ Correlation analysis between multi-platform metrics and **Spotify Global Chart R
 
 Evaluating the 5 deep-archive cohorts revealed distinct behavioral archetypes across skip behavior, active search queries, chart overlap, and diversity:
 
-![User Skip Rate vs. Average Skip Time](skip_rate_vs_time.png)
+![User Skip Rate vs. Average Skip Time](https://github.com/SwapnilChhetri/Polyphonic-Identities-A-Machine-Learning-Approach-to-Gen-Z-Music-Consumption./blob/bbc24cdaccb3593fc6d7e0de22f3ddc86cb10383/user_skip_rate.png)
+
 *Figure 3 (Dissertation Fig. 15): Dual-axis comparison of user skip rate ($<30\text{ s}$) against average skip timestamp (in milliseconds).*
 
 | User Cohort | Polyphonic Score (Diversity) | Global Chart Overlap | Skip Rate ($<30\text{ s}$) | Avg. Skip Time | Active Search Queries | Behavioral Archetype | 
@@ -141,7 +142,7 @@ Evaluating the 5 deep-archive cohorts revealed distinct behavioral archetypes ac
 
 The `NetworkX` community detection model uncovered three structural tiers in modern music consumption:
 
-![Weighted Genre Co-occurrence Network](genre_network.png)
+![Weighted Genre Co-occurrence Network](https://github.com/SwapnilChhetri/Polyphonic-Identities-A-Machine-Learning-Approach-to-Gen-Z-Music-Consumption./blob/bbc24cdaccb3593fc6d7e0de22f3ddc86cb10383/genre_network.png)
 *Figure 4 (Dissertation Fig. 19): Force-directed Genre Co-occurrence Network with Greedy Modularity community coloring.*
 
 1. **The Central Supercluster:** A highly dense hub comprising *Pop*, *Dance Pop*, *Hip-Hop*, and *Urban Contemporary*, acting as the gravitational center of streaming traffic.
